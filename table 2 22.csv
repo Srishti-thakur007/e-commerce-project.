@@ -1,0 +1,27 @@
+order_id,amount,profit,quantity,category,subcategory,payment_mode
+1001,2500,1200,2,Furniture,Chair,Credit Card
+1002,1200,-150,1,Electronics,Mobile,UPI
+1003,800,100,3,Clothing,T-Shirt,Cash
+1004,4500,500,1,Electronics,Laptop,Debit Card
+1005,700,-80,4,Clothing,Jeans,UPI
+1006,3000,-350,2,Furniture,Table,Credit Card
+1007,1500,200,2,Electronics,Headphones,Cash
+1008,2200,-250,1,Furniture,Sofa,Debit Card
+1009,900,120,2,Clothing,Shirt,UPI
+1010,5000,-700,1,Electronics,TV,Credit Card
+1011,1096,64,8,Clothing,saree,CASH
+1012,5769,568,6,Electronics,phones,Credit Card
+1013,50,1150,4,Electronics,printers,Cash
+1014,6,-498,5,Furniture,bookcases,Debit Card
+1015,8034,-3,9,Electronics,phones,Credit Card
+1016,3689,-1,7,Clothing,kurti,Cash
+1017,2098,1150,1,Electronics,printers,Credit Card
+1018,8,721,5,Clothing,kurti,Debit Card
+1019,2188,-1,4,Furniture,bookcases,Cash
+1020,135,1151,2,Clothing,saree,UPI
+1021,1876,721,5,Clothing,jeans,UPI
+1022,3498,1200,1,Clothing,trousers,Credit Card
+1023,231,146,4,Furniture,Chair,Cash
+1024,1298,-2,4,Electronics,printers,UPI
+1025,1200,500,5,Electronics,phones,UPI
+1026,2244,-273,8,Electronics,printers,Cash

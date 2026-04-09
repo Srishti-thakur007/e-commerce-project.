@@ -1,0 +1,27 @@
+order_id,order_date,customer_name,state,city
+1001,05-01-2024,Rahul Sharma,Maharashtra,Mumbai
+1002,07-02-2024,Priya Singh,Delhi,New Delhi
+1003,11-03-2024,Aman Verma,Uttar Pradesh,Lucknow
+1004,13-03-2024,Neha Gupta,Karnataka,Bangalore
+1005,16-02-2024,Rohit Mehta,Gujarat,Ahmedabad
+1006,18-04-2024,Simran Kaur,Punjab,Amritsar
+1007,21-05-2024,Arjun Patel,Gujarat,Surat
+1008,23-05-2024,Kavita Joshi,Rajasthan,Jaipur
+1009,25-05-2024,Deepak Yadav,Bihar,Patna
+1010,28-12-2024,Pooja Rani,Haryana,Gurgaon
+1011,22-06-2024,ananya,Punjab,Amritsar
+1012,07-07-2024,mira,Haryana,Faridabad
+1013,08-07-2024,yanu,Uttar Pradesh,kanpur
+1014,11-06-2024,jasna,Maharashtra,Pune
+1015,04-04-2024,hina,Gujarat,Ahmedabad
+1016,02-02-2024,giya,Rajasthan,Jaipur
+1017,04-08-2024,priyanka,Madhya Pradesh,indore
+1018,08-08-2024,deepika,Karnataka,Bengaluru
+1019,19-09-2024,kashvi,Tamil Nadu,Chennai
+1020,24-09-2024,nancy,West Bengal,kolkata
+1021,27-09-2024,niki,Punjab,Amritsar
+1022,21-08-2024,lashya,Gujarat,Surat
+1023,12-10-2024,jashn,Rajasthan,Jaipur
+1024,22-10-2024,jyoti,Bihar,Patna
+1025,30-09-2024,navi,Haryana,Gurgaon
+1026,29-11-2024,kanav,Rajasthan,Jaipur
