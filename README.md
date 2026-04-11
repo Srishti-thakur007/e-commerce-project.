@@ -126,7 +126,7 @@ Top-performing subcategories:
 
 ## 📸 Dashboard Preview
 
-*(Add your screenshot here)*
+*(https://github.com/Srishti-thakur007/e-commerce-project./blob/main/dashboard1.png)*
 
 ---
 
